@@ -74,16 +74,16 @@ yarn build
 ### Light & Dark Mode
 <table>
 <tr>
-<td><img src="assets/screenshots/light-1.png" width="48%" /></td>
-<td><img src="assets/screenshots/dark-1.png" width="48%" /></td>
+<td><img src="assets/screenshots/light.png" width="48%" /></td>
+<td><img src="assets/screenshots/dark.png" width="48%" /></td>
 </tr>
 </table>
 
 ### Stats & Achievements
 <table>
 <tr>
-<td><img src="assets/screenshots/stats-1.png" width="48%" /></td>
-<td><img src="assets/screenshots/achievements-1.png" width="48%" /></td>
+<td><img src="assets/screenshots/stats.png" width="48%" /></td>
+<td><img src="assets/screenshots/achievements.png" width="48%" /></td>
 </tr>
 </table>
 
@@ -116,4 +116,5 @@ MIT
 <p align="center">
   Made with ❤️ by Anukar.
 </p>
+
 
