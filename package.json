@@ -18,7 +18,7 @@
     "reminder",
     "timer"
   ],
-  "author": "Roberto Marchetti <rmarchet@gmail.com>",
+  "author": "Anukar <anukaropdev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "clean": "^4.0.2"
@@ -35,3 +35,4 @@
     }
   }
 }
+
